@@ -24,4 +24,5 @@ A tool for visualizing financial datasets from Kaggle, enabling users to gain in
    ```bash
    git clone https://github.com/your_username/financial-data-visualization.git
    cd financial-data-visualization
+   pip install requirements.txt
 
