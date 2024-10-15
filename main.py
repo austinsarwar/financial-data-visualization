@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import kagglehub
 import matplotlib.pyplot as plt
-import mplfinance as mpf
+
 
 
 path = kagglehub.dataset_download("adhoppin/financial-data")
